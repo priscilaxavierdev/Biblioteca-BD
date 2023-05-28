@@ -1,8 +1,8 @@
 # Biblioteca-BD
-#### O Faxineiro Implacável
+## O Faxineiro Implacável
 Objetivo de fazer limpeza em alguns dados de uma biblioteca fictícia.
 Segue no script sql desse repositório o resultado!
-#### Código inicial informado no exercício
+### Código inicial informado no exercício
 Código inicial
 CREATE TABLE Livros (
     livros_id INT PRIMARY KEY,
@@ -21,7 +21,7 @@ INSERT INTO Livros (id, titulo, autor, editora, ano_publicacao, isbn) VALUES
 (5, '1984', 'George Orwell', 'Companhia Editora Nacional', 1949, '978-85-221-0616-9'),
 (6, 'Percy Jackson e o Ladrão de Raios', 'Rick Riordan', 'Intrínseca', 2005, '9788598078355');
 
-#### O código bagunçado informado pelo exercício para arrumar
+### O código bagunçado informado pelo exercício para arrumar
 INSERT INTO 
 Livros (identificador, titulo, autor, editora, ano_publicacao, isbn, autor_id, editora_id) 
 VALUES 
