@@ -1,6 +1,6 @@
 # Biblioteca-BD
 #### O Faxineiro Implacável
-Objetivo de fazer limpeza em alguns dados de uma biblioteca fictícia
+Objetivo de fazer limpeza em alguns dados de uma biblioteca fictícia.
 Segue no script sql desse repositório o resultado!
 #### Código Inicial
 Código inicial
