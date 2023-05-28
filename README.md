@@ -2,7 +2,7 @@
 #### O Faxineiro Implacável
 Objetivo de fazer limpeza em alguns dados de uma biblioteca fictícia.
 Segue no script sql desse repositório o resultado!
-#### Código Inicial
+#### Código inicial informado no exercício
 Código inicial
 CREATE TABLE Livros (
     livros_id INT PRIMARY KEY,
